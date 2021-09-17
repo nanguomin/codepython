@@ -31,3 +31,4 @@ if __name__ == '__main__':
     #     logging.info(e)
     student = sudent.Student('小明', '18', '男')
     print(student.print01())
+    print("test")
